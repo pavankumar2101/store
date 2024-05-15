@@ -1,0 +1,9 @@
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.display img{
+    height: 150px;
+}
